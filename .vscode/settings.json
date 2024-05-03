@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0A3506",
+    "titleBar.activeBackground": "#0E4B08",
+    "titleBar.activeForeground": "#F4FEF3"
+  },
+  "go.buildFlags": ["-buildvcs=false"],
+  "go.lintFlags": ["-buildvcs=false"],
+  "go.gocodeFlags": ["-buildvcs=false"],
+  "go.flags": ["-buildvcs=false"],
+  "go.formatFlags": ["-buildvcs=false"]
+}
